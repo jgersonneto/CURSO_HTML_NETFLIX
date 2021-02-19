@@ -14,3 +14,7 @@ $('.owl-carousel').owlCarousel({
       }
   }
 })
+
+function NINTENDOFLIX() {    
+    window.open("/nintendoflix/nflixmain.html");
+}
